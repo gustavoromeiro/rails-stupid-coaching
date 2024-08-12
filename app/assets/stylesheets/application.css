@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+ html {
+  background-color: lightgrey;
+ }
+
+ .card {
+  padding: 2px;
+  padding-left: 32px;
+  background-color: white;
+  margin: 32px;
+ }
+
+ #coach_answer {
+  background-color: lightyellow;
+ }
+
+ .card_flag {
+  background-color: grey;
+  padding: 2px;
+ }
